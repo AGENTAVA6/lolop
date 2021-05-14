@@ -1,0 +1,14 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+body{
+    background-color: purple;
+}
+.name_of_objects, #object_name, #object_accuracy{
+ color: yellow;
+}
+#camera{
+    width: 350;
+    height: 300;
+}
